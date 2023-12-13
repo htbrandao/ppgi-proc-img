@@ -1,0 +1,13 @@
+- https://www.kaggle.com/code/gauravduttakiit/image-processing-notebook
+- https://www.kaggle.com/code/vishwajeetjk/image-processing-project-segmentation-part
+- https://www.kaggle.com/code/akshayt19nayak/getting-started-image-processing-basics
+- https://pyimagesearch.com/2020/09/21/opencv-automatic-license-number-plate-recognition-anpr-with-python/
+- https://docs.replit.com/tutorials/python/steganography
+- https://betterprogramming.pub/image-steganography-using-python-2250896e48b9
+- https://www.sciencedirect.com/science/article/abs/pii/S0030402622007173#:~:text=In%20consequence%2C%20steganographers%20are%20realized,and%20confidentiality%20of%20the%20information
+- https://link.springer.com/chapter/10.1007/978-981-19-9888-1_51
+- https://www.section.io/engineering-education/license-plate-detection-and-recognition-using-opencv-and-pytesseract/
+- https://www.shiksha.com/online-courses/articles/10-image-processing-projects-for-beginners-and-experts/#Face-Detection
+- https://www.tutorialspoint.com/how-to-detect-license-plates-using-opencv-python
+- https://www.geeksforgeeks.org/license-plate-recognition-with-opencv-and-tesseract-ocr/
+- https://medium.com/augmented-startups/automatic-number-plate-recognition-with-easy-ocr-and-open-cv-6d121384cdc7
